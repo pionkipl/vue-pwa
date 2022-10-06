@@ -1,0 +1,12 @@
+.btn {
+  padding: 1rem 2rem;
+  border: none;
+  margin: 1rem;
+  font-size: 2rem;
+  cursor: pointer;
+
+  &--main {
+    background-color: darkorchid;
+    color: #fff;
+  }
+}
